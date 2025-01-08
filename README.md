@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### Call me :telephone_receiver:
+- Mail: **wjdxogus119@gmail.com**
+---
+### Project
+- [Smart Library](https://github.com/JTH119/Smart-Library)
+- [Iot-Mailbox](https://github.com/JTH119/Iot-Mailbox)
+- [Smart-Fan](https://github.com/JTH119/Smart-Fan)
+---
+
 <!--
 **JTH119/JTH119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
